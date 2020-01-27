@@ -1,4 +1,4 @@
-[Ebola virus](https://github.com/vratchaudhary/Multi_tissue_disease_systems/blob/master/Ebola_virus_virion.jpg)
+![Ebola virus](https://github.com/vratchaudhary/Multi_tissue_disease_systems/blob/master/Ebola_virus_virion.jpg)
 
 Surveillance of zoonotic, wildlife diseases is critically important from public-health, economic and conservation perspectives.
 However, estimating disease prevalence is challenging for multi-tissue diseases, where multiple tissues can be infected, and a patient can be in the one of several possible states of infection depending on the types of tissues affected. 
