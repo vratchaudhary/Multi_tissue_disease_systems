@@ -5,3 +5,5 @@ Furthermore, infection of multiple tissues may be inter-dependent. Additional co
 
 We developed a general multi-state occupancy model which accounts for imperfect detection, and provides unbiased estimates of disease state-specific prevalence parameters even when the infection process is interdependent among tissues being affected
 The general multistate modeling framework developed here is broadly applicable to the surveillance of pathogens that infect multiple tissues and where the infection status or detection of pathogen in one tissue may depend on infection status or detection of pathogen in other tissue(s) within a host. We believe that the modeling framework developed here would be applicable to many wildlife, livestock and human diseases where multiple tissues within a host would be affect. 
+
+https://vratchaudhary.github.io/Multi_tissue_disease_systems/
