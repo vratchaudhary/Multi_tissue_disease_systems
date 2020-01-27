@@ -1,0 +1,3 @@
+Surveillance of zoonotic, wildlife diseases is critically important from public-health, economic and conservation perspectives.
+However, estimating disease prevalence is challenging for multi-tissue diseases, where multiple tissues can be infected, and a patient can be in the one of several possible states of infection depending on the types of tissues affected. 
+Furthermore, infection of multiple tissues may be inter-dependent. Additional complications in multi-tissue disease surveillance arise from the lack of a biologically meaningful definition of infection, an absence of clear guidance regarding which or how many tissues are to be sampled for testing, and imperfect detection of the pathogen when the infection status is not independent among affected tissues. 
