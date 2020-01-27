@@ -10,4 +10,4 @@ The general multistate modeling framework developed here is broadly applicable t
 
 
 
-
+[code](https://github.com/vratchaudhary/Multi_tissue_disease_systems/blob/master/016_general_multistate_multi_tissue_diseasemodel.R)
